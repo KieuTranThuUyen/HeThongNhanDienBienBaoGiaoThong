@@ -1,0 +1,13 @@
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 1
+names: ['Bien_bao_duong_cam']
+
+roboflow:
+  workspace: trafficsign-rizps
+  project: traffic-sign-1-btni4
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/trafficsign-rizps/traffic-sign-1-btni4/dataset/1
