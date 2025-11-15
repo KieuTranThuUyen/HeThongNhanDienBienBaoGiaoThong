@@ -160,7 +160,7 @@ class YOLOGUI(QMainWindow):
             "R.425": {"desc": "Bệnh viện", "suggestion": "Giảm tốc độ, chú ý người đi bộ gần bệnh viện."},
             "R.434": {"desc": "Bến xe", "suggestion": "Giảm tốc độ, chú ý xe ra vào bến."},
             "S.509a": {"desc": "Chiều cao an toàn", "suggestion": "Kiểm tra chiều cao xe, đảm bảo không vượt quá giới hạn."},
-            "F.201a": {"desc": "Chỗ ngoặt nguy hiểm vòng bên trái", "suggestion": "Giảm tốc độ, cẩn thận khi vào khúc cua trái."},
+            "W.201a": {"desc": "Chỗ ngoặt nguy hiểm vòng bên trái", "suggestion": "Giảm tốc độ, cẩn thận khi vào khúc cua trái."},
             "W.201b": {"desc": "Chỗ ngoặt nguy hiểm vòng bên phải", "suggestion": "Giảm tốc độ, cẩn thận khi vào khúc cua phải."},
             "W.202a": {"desc": "Nhiều chỗ ngoặt nguy hiểm liên tiếp, chỗ đầu tiên sang trái", "suggestion": "Giảm tốc độ, chuẩn bị cho nhiều khúc cua bắt đầu từ trái."},
             "W.202b": {"desc": "Nhiều chỗ ngoặt nguy hiểm liên tiếp, chỗ đầu tiên sang phải", "suggestion": "Giảm tốc độ, chuẩn bị cho nhiều khúc cua bắt đầu từ phải."},
